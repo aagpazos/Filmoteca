@@ -3,13 +3,14 @@
 - Proyecto realizado en Diciembre 2018 
 - Para la asignatura Programación III de Ingeniería Informatica de la Universidad de Salamanca
 
-![screenshot](Filmot18/screenshot.jpg)
 
 ## Descripción
 - Aplicacion para controlar una base de datos de peliculas
 - De cada pelicula se guardan datos como el año, duración, director(es), reparto o la sinopsis, entre otros.
 - De cada director se guardan datos como el nombre, la nacionalidad o las peliculas.
 - De cada actor se guardan datos como el nombre, las peliculas o el año de debut.
+
+![screenshot](Filmot18/screenshot.jpg)
 
 ## Funcionalidad
 - Arranque

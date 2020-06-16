@@ -11,16 +11,18 @@ import view.View;
  *
  * @author aagpazos
  */
-public class Filmoteca {
+public class Main {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         View v = new View();
-        v.runMenu("1.-  \n"
-                + "2.-  \n"
-                + "3.-  \n"
+        v.runMenu("1.- Archivos \n"
+                + "2.- Peliculas \n"
+                + "3.- Directores \n"
+                + "4.- Actores \n"
+                + "5.- Listados \n"
                 + "q.- Salir ");
 
     }
